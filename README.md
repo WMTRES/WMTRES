@@ -10,6 +10,7 @@
  <a href="https://twitter.com/WMTres_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/william-melo-37b561155" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ 
 
 
 ##
@@ -18,6 +19,8 @@
  <a href="https://beacons.ai/WMTRES">
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=WMTRES&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
   </div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47xsvp79b5nnc532tzggh2foca7znlxk0ndvlzwzg2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+ 
  
 ## 
  Loading...
@@ -29,8 +32,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
-  </div>
+
+</div>
+
   
   # 
  
