@@ -8,11 +8,8 @@
 
 <div>
  <a href="https://beacons.ai/WMTRES">
-  
- <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMTRES&layout=compact&langs_count=16&theme=dark"/>
- <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=WMTRES&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  
- </div>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=WMTRES&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  </div>
  
 
  
