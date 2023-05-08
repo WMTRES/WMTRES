@@ -2,7 +2,7 @@
  
 </div>
 
-### Olá! Obrigado por visitar meu perfil 🙋🏾‍♂️
+### Seja bem vindo!
 
 ##
 
