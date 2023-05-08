@@ -19,7 +19,6 @@
  <a href="https://beacons.ai/WMTRES">
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=WMTRES&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
   </div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47xsvp79b5nnc532tzggh2foca7znlxk0ndvlzwzg2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
  
  
 ## 
